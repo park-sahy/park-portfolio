@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://{park-sahy}.github.io/{portfolio-sh}",
+  "homepage":"https://park-sahy.github.io/portfolio-sh",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
